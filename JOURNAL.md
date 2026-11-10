@@ -12,7 +12,7 @@ total_time: "unfinished"
 
 I spent my time today signing up for Fabricate, familiarising myself with how the competition works, verifying my age, and planning my battle bot.
 
-![wheels plan](https://cdn.hackclub.com/01a1c433-d26b-7674-8400-c597b164202c/IMG_20261110_143737.jpg)
+![wheels plan](https://cdn.hackclub.com/01a1c7d9-d8b3-7165-87bf-35bb5da7ab4e/paste-1794354300544.png)
 Above is my plan for the wheels and how the bot will move around. It features two independently controlled wheels that have been tilted for more ability to rotate the bot left and right, two unpowered wheels are free to rotate in the front and back making sure the bot is stable.
 
 ![weapon plan](https://cdn.hackclub.com/01a1c44a-acb0-740b-bddf-9226a9615537/IMG_20261110_150904.jpg)
