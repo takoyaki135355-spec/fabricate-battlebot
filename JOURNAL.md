@@ -3,7 +3,7 @@ title: "Battle Bot - (The Ultra Destroyer 3000)"
 github: "https://github.com/takoyaki135355-spec/fabricate-battlebot"
 description: "I'm building a battle bot for the first time to explore hardware engineering and design."
 created_at: "2026-11-10"
-total_time: "unfinished"
+total_time: "13h"
 ---
 
 ## November 10th, 2026: The Start
@@ -57,7 +57,7 @@ correct batteries and power distribution was very challenging to balance.
 
 ## November 12th, 2026: Day 3
 
-Continuing my parts research... (during school breaktime)
+Continuing my parts research... 
 
 ill also add prices to these so i can budget, with the price ill take from my funds to buy them.
 
@@ -67,11 +67,11 @@ ill also add prices to these so i can budget, with the price ill take from my fu
 ![battery image](https://cdn.hackclub.com/01a1ce14-bea3-700c-8430-c3a87d77e7bf/paste-1794458825717.png)
 - [ESP32](https://shopee.com.my/ESP32-Development-Board-TYPE-C-USB-CH340C-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Core-ESP32-DevKitC-32-ESP-WROOM-32-i.550994225.17872412597?extraParams=%7B%22display_model_id%22%3A38839700478%2C%22model_selection_logic%22%3A3%7D&image_ids=eaf39f0dd6157fb39375dd446c410323)
     - 52mmx28mm
-    -RM20.03, 21
+    - RM20.03, 21
 ![ESP32 image](https://cdn.hackclub.com/01a1ce25-03a9-7e13-8e4a-bd62d4730a57/paste-1794459894178.png)
 - [Swiveling Wheels](https://shopee.com.my/CSM-30-mm-40mm-50mm-Furniture-Casters-Wheels-Nylon-Polyurethane-PU-Wheels-Castors-Plate-Swivel-Roller-i.15543291.29318119739?extraParams=%7B%22display_model_id%22%3A365729887901%2C%22model_selection_logic%22%3A3%7D&image_ids=my-11134207-820l9-mknkyvpxp1c74b)
     - 30mmx30mm
-    - RM1.90 x 2, 3.80
+    - RM1.90 x 2, 3.4
 ![swivelling wheels image](https://cdn.hackclub.com/01a1ce28-3b42-708e-b59e-a50320f70e04/paste-1794460105209.png)
 - [Dual Channel Motor Driver](https://shopee.com.my/Small-L298N-MX1508-2-Channel-Way-1.5A-Mini-DC-Motor-Driver-for-Arduino-Robot-Smart-Car-i.33091591.947503953?extraParams=%7B%22display_model_id%22%3A21951285825%2C%22model_selection_logic%22%3A3%7D&image_ids=e1da53947298e80ed5d83d9e0977e652)
     - 21mmx24.7mm
@@ -85,7 +85,7 @@ ill also add prices to these so i can budget, with the price ill take from my fu
     - no listed size
     - RM31.38, 32
 - [N20 Motor](https://shopee.com.my/MICRO-MOTOR-DC-N20-i.368703462.27574689319?extraParams=%7B%22display_model_id%22%3A223757505547%2C%22model_selection_logic%22%3A3%7D&image_ids=912f8490c76c06f3a30dbe9212afadad)
-    - RM6.05 x 4, 24.4
+    - RM6.05 x 2, 12.2
     - 10mmx12mmx15mm (body)
     - 4mm (axel length)
 ![motor image](https://cdn.hackclub.com/01a1ce87-8b0f-7780-bfda-b54e7c729e2b/paste-1794466350003.png)
@@ -94,6 +94,25 @@ ill also add prices to these so i can budget, with the price ill take from my fu
     - RM4.51, 5
 ![buck converter image](https://cdn.hackclub.com/01a1ce23-e1e8-7f63-b02b-303aeb9cdb51/paste-1794459817631.png)
 - [Main wheels](https://shopee.com.my/70-Skates-Wheel-Wheel-Adult-Children-Roller-Skates-Wear-Resistant-Roller-Skates-PU-Wheel-Rubber-Mute-64mm-Kart-i.1416595624.55200501365?extraParams=%7B%22display_model_id%22%3A445044633456%2C%22model_selection_logic%22%3A3%7D&image_ids=cn-11134207-820l4-mgnozv6bj2tpcb)
+    - RM21.26 x 2, 44
     - 70mmx24mm (wheel)
     - 22mm (bearing outer diameter)
-![image](https://cdn.hackclub.com/01a1ce8a-3e16-7eef-8efd-d030791fa1c9/2026-11-12_14-54-34.png)
+![main wheels image](https://cdn.hackclub.com/01a1ce8a-3e16-7eef-8efd-d030791fa1c9/2026-11-12_14-54-34.png)
+- [Wires](https://shopee.com.my/product/1165814930/24676987244?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEdAAAAAxUANCT5A1ZQjk10BrpC_e2GNKQaPe9Hz3iKpescjEORNsMVxWOTUlKYRiAxvNJ6B0x980hNdxIB-y_yOacwysCe7eCoeGctToQSC6jcRxeqYjeAj6Qi4OwO8vM41WCa_ip_TwnTK3Xu17cu-VWCvlh)
+    - 30cm
+    - RM4.65, 5
+
+## **Grand total cost: RM217.4** ~$55
+
+THAT WAS SO MUCH WORK OMG HOW?!?!?!
+i guess now i need to 3d model it, before i do that i'll lock in my designs and measurements on paper.
+
+
+**Total time spent: 5h**
+
+## November 13th, 2026: Day 4
+
+I just realised that the n20 motors probably dont have enough strength to move the wheels..
+I'm swapping them for 25GA-370 motors, and I created PARTLIST.md which will be keeping this journal clutter free.
+The new total cost comes out to around **RM236**
+
