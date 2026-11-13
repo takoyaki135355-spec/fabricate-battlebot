@@ -3,7 +3,7 @@ title: "Battle Bot - (The Ultra Destroyer 3000)"
 github: "https://github.com/takoyaki135355-spec/fabricate-battlebot"
 description: "I'm building a battle bot for the first time to explore hardware engineering and design."
 created_at: "2026-11-10"
-total_time: "13h"
+total_time: ""
 ---
 
 ## November 10th, 2026: The Start
@@ -102,11 +102,10 @@ ill also add prices to these so i can budget, with the price ill take from my fu
     - 30cm
     - RM4.65, 5
 
-## **Grand total cost: RM217.4** ~$55
+_Grand total cost: RM217.4_
 
 THAT WAS SO MUCH WORK OMG HOW?!?!?!
 i guess now i need to 3d model it, before i do that i'll lock in my designs and measurements on paper.
-
 
 **Total time spent: 5h**
 
@@ -116,3 +115,4 @@ I just realised that the n20 motors probably dont have enough strength to move t
 I'm swapping them for 25GA-370 motors, and I created PARTLIST.md which will be keeping this journal clutter free.
 The new total cost comes out to around **RM236**
 
+**Total time spent: 1h**
