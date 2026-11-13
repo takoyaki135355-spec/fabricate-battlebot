@@ -115,4 +115,13 @@ I just realised that the n20 motors probably dont have enough strength to move t
 I'm swapping them for 25GA-370 motors, and I created PARTLIST.md which will be keeping this journal clutter free.
 The new total cost comes out to around **RM236**
 
-**Total time spent: 1h**
+now to start designing it, i usually use freecad but i think that onshape will work better for this.
+Now that my student account has been created it's officially time to **LEARN A NEW SOFTWARE!!!**
+
+learn.onshape.com apparently has some usefull tutorials I'll check out
+nvm they're all bad
+ill just use what i know from freecad, i hope i wont get too lost
+
+in the middle of some models
+
+**Total time spent: 5h**
