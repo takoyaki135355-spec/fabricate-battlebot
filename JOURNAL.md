@@ -125,3 +125,10 @@ ill just use what i know from freecad, i hope i wont get too lost
 in the middle of some models
 
 **Total time spent: 5h**
+
+## November 14th, 2026: Day 5
+
+nothing today because i was at the haven event all day
+
+**Total time spent: 0h**
+
