@@ -126,9 +126,16 @@ in the middle of some models
 
 **Total time spent: 5h**
 
-## November 14th, 2026: Day 5
+## November 17th, 2026: Day 5
 
-nothing today because i was at the haven event all day
+gonna continue the modeling now
 
-**Total time spent: 0h**
+resuming from day 4
+![image](https://cdn.hackclub.com/01a1e94a-0f81-7ce5-9880-a522a732a913/paste-1794915305409.png)
+
+i now have 
+![image](https://cdn.hackclub.com/01a1ebd6-c136-7919-b8f7-7f0353a68078/2026-11-18_07-27-31.png)
+and
+![image](https://cdn.hackclub.com/01a1ebd7-462a-7ca0-8ffa-c35b47fcec9f/paste-1794958116130.png)
+**Total time spent: 1h**
 
