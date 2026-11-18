@@ -137,5 +137,12 @@ i now have
 ![image](https://cdn.hackclub.com/01a1ebd6-c136-7919-b8f7-7f0353a68078/2026-11-18_07-27-31.png)
 and
 ![image](https://cdn.hackclub.com/01a1ebd7-462a-7ca0-8ffa-c35b47fcec9f/paste-1794958116130.png)
+
 **Total time spent: 1h**
+
+## November 18th, 2026: Day 6
+
+ill create a folder with all of my cad files
+heres the new flap
+![image](https://cdn.hackclub.com/01a1ec71-4ac0-78f5-97c1-e35a3e967b09/paste-1794968208228.png)
 

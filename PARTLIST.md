@@ -29,6 +29,7 @@
 - [25GA-370 Motor](https://shopee.com.my/glowerstoree-my-Electric-Gear-Motor-DC-12V-5RPM-25GA-370-Low-Speed-Metal-for-Electronic-Lock-(12V-5RPM)-i.1883860070.48214157510?extraParams=%7B%22display_model_id%22%3A436219132998%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134201-8259p-mqqumvhdzuv59c)
     - 15.46 x 2, 31
     - Outer diameter: 25 mm
+    - Length: 51.62mm
     - Shaft diameter: 4mm 
     - Shaft length: 10 mm
 ![wheel motor image](https://cdn.hackclub.com/01a1d2e3-ad54-7fd8-bd8d-e5bf1b835680/paste-1794539497579.png)
