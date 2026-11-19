@@ -21,10 +21,11 @@
 - [Power Distribution Board](https://shopee.com.my/Matek-Mini-Power-Hub-Power-Distribution-Board-PDB-with-BEC-5V-12V-for-FPV-i.53025383.1067939439)
     - no listed size
     - RM31.38, 32
-- [N20 Motor](https://shopee.com.my/MICRO-MOTOR-DC-N20-i.368703462.27574689319?extraParams=%7B%22display_model_id%22%3A223757505547%2C%22model_selection_logic%22%3A3%7D&image_ids=912f8490c76c06f3a30dbe9212afadad)
-    - RM6.05 x 2, 12.2
-    - 10mmx12mmx15mm (body)
-    - 4mm (axel length)
+- [N20 Motor](https://shopee.com.my/DC-Geared-Motor-GA12-(N20)-Tiny-3V-6V-12V-Gear-Tiny-Small-Bracket-Wheel-43mm-i.126211897.19610788172?extraParams=%7B%22display_model_id%22%3A225669725618%2C%22model_selection_logic%22%3A2%7D&image_ids=my-11134207-7ras9-md141mddw5adb2)
+    - RM14.49 x 2, 31
+    - 10mmx12mmx27mm (body)
+    - 10mm (axel length)
+    - 3mm (axel diameter)
 ![motor image](https://cdn.hackclub.com/01a1ce87-8b0f-7780-bfda-b54e7c729e2b/paste-1794466350003.png)
 - [25GA-370 Motor](https://shopee.com.my/glowerstoree-my-Electric-Gear-Motor-DC-12V-5RPM-25GA-370-Low-Speed-Metal-for-Electronic-Lock-(12V-5RPM)-i.1883860070.48214157510?extraParams=%7B%22display_model_id%22%3A436219132998%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134201-8259p-mqqumvhdzuv59c)
     - 15.46 x 2, 31

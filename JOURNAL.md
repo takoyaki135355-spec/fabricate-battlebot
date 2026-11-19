@@ -146,3 +146,30 @@ ill create a folder with all of my cad files
 heres the new flap
 ![image](https://cdn.hackclub.com/01a1ec71-4ac0-78f5-97c1-e35a3e967b09/paste-1794968208228.png)
 
+**Total time spent: 1h**
+
+## November 19, 2026: Day 7
+
+working on the chassis rn
+![image](https://cdn.hackclub.com/01a1f25a-2f68-7730-9168-aadb7698693c/paste-1795067356762.png)
+![image](https://cdn.hackclub.com/01a1f25a-9d3e-72f0-895f-8fc6a5645abb/paste-1795067386757.png)
+this piece should carry the motors that drive the wheels
+the wheels are at a 20 degree angle to the ground so that it can turn easier.
+
+after checking in an assembly i realised that the camber (tilt) would not work
+![image](https://cdn.hackclub.com/01a1f260-80b0-75b8-8f82-8f04fe23c36c/paste-1795067771833.png)
+ 
+so i changed it to 10 degrees
+
+eventually i'll need to have the correct size for the chassis top so ill use the measurements 
+of my parts to create a plan, but first the grinder blade
+
+![image](https://cdn.hackclub.com/01a1f2bc-a779-7d8e-8ef1-d7c00f3cc887/paste-1795073810180.png)
+
+now ill hook up the gears
+![image](https://cdn.hackclub.com/01a1f386-409a-7653-ba15-4e12f631d75e/paste-1795087022225.png)
+
+now ill make the mounts
+halfway done with these but stopping for today
+
+**Total time spent: 5.5h**
