@@ -173,3 +173,21 @@ now ill make the mounts
 halfway done with these but stopping for today
 
 **Total time spent: 5.5h**
+
+## November 20, 2026: Day 8
+
+school is FINALLY over for the year
+I'll work on the right grinder casing now
+![image](https://cdn.hackclub.com/01a1f7fe-0d68-7085-93ac-56f778893422/paste-1795161983151.png)
+The next step is to connect it to the body
+![image](https://cdn.hackclub.com/01a1f83b-c929-772b-a1ae-53ebe0542fcd/paste-1795166028181.png)
+The next step is to create a left version
+![image](https://cdn.hackclub.com/01a1f855-7432-7934-964a-c647533c7992/paste-1795167710652.png)
+The next step is to redesign the chassis so it can fit all the components
+firstly, i resdesigned the top of the chassis to accomodate more parts
+![image](https://cdn.hackclub.com/01a1f93a-b3a0-7075-b3ff-13589cb048bc/paste-1795182735894.png)
+i decided that the pdb will go in the center of the chassis while the two motor drivers sit above it
+the battery will be in the back, and the buck converter will be in the back
+the esp32 devboard sits on the buck converter
+tomorrow i will adjust the chassis
+**Total time spent: 3.5h**

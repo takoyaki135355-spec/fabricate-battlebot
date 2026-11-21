@@ -47,4 +47,4 @@
     - 30cm
     - RM4.65, 5
 
-## **Grand total cost: ~RM236**
+## **Grand total cost: ~RM255**
