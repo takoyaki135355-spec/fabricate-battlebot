@@ -206,7 +206,7 @@ i'm doing this because my modeling needs to finish soon and an item shipping fro
 
 i finished the chassis and put it into an assembly to test, but there was one big problem...
 
-### **it was so BIG**
+**it was so BIG**
 
 the body wouldnt fit on it
 ![image](https://cdn.hackclub.com/01a201b2-04f2-7f62-a4ee-37d5f0063ad2/paste-1795324769257.png)
@@ -219,4 +219,3 @@ ill make the body bigger and just print it in sections
 fixed
 im done that took too long
 **Total time spent: 3h**
-
