@@ -191,3 +191,32 @@ the battery will be in the back, and the buck converter will be in the back
 the esp32 devboard sits on the buck converter
 tomorrow i will adjust the chassis
 **Total time spent: 3.5h**
+
+## November 21, 2026: Day 9
+
+extended the chassis to fit the battery
+the swivelling support wheel doesn't list the right dimentions `:(`
+i would need to get it before i submit my design so im switching it to these,
+![image](https://cdn.hackclub.com/01a1fd0b-5a11-77c9-9ef2-254a7764a366/paste-1795246739050.png)
+i'm doing this because my modeling needs to finish soon and an item shipping from far away will take too long to get to me, this option is local and should come fast.
+    
+**Total time spent: 1h**
+
+## November22, 2026: Day 10
+
+i finished the chassis and put it into an assembly to test, but there was one big problem...
+
+### **it was so BIG**
+
+the body wouldnt fit on it
+![image](https://cdn.hackclub.com/01a201b2-04f2-7f62-a4ee-37d5f0063ad2/paste-1795324769257.png)
+
+after shrinking the chassis as much as i could it still wouldnt fit
+![image](https://cdn.hackclub.com/01a201bd-da35-78f8-8960-662855aaeadf/paste-1795325547416.png)
+
+i realised that the only way to do this would be to enlarge the body, meaning i wouldnt be able to print it in one piece.
+ill make the body bigger and just print it in sections
+fixed
+im done that took too long
+**Total time spent: 3h**
+

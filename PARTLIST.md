@@ -6,10 +6,10 @@
     - 52mmx28mm
     -RM20.03, 21
 ![ESP32 image](https://cdn.hackclub.com/01a1ce25-03a9-7e13-8e4a-bd62d4730a57/paste-1794459894178.png)
-- [Swiveling Wheels](https://shopee.com.my/CSM-30-mm-40mm-50mm-Furniture-Casters-Wheels-Nylon-Polyurethane-PU-Wheels-Castors-Plate-Swivel-Roller-i.15543291.29318119739?extraParams=%7B%22display_model_id%22%3A365729887901%2C%22model_selection_logic%22%3A3%7D&image_ids=my-11134207-820l9-mknkyvpxp1c74b)
-    - 30mmx30mm
-    - RM1.90 x 2, 3.4
-![swivelling wheels image](https://cdn.hackclub.com/01a1ce28-3b42-708e-b59e-a50320f70e04/paste-1794460105209.png)
+- [Swiveling Wheels](https://shopee.com.my/4Pcs-Furniture-Caster-Mini-Ball-Wheels-Self-Adhesive-Swivel-Pulley-Roller-Universal-Stainless-Steel-i.1899904765.46515614620?extraParams=%7B%22display_model_id%22%3A391333648460%2C%22model_selection_logic%22%3A3%7D&image_ids=my-11134207-820l4-mrldxzxk5fyc9d)
+    - 25mmx45mm
+    - RM1.99, 2
+![swivelling wheels image](https://down-my.img.susercontent.com/file/my-11134207-820la-mrldxzxk2mtgbe@resize_w900_nl.webp)
 - [Dual Channel Motor Driver](https://shopee.com.my/Small-L298N-MX1508-2-Channel-Way-1.5A-Mini-DC-Motor-Driver-for-Arduino-Robot-Smart-Car-i.33091591.947503953?extraParams=%7B%22display_model_id%22%3A21951285825%2C%22model_selection_logic%22%3A3%7D&image_ids=e1da53947298e80ed5d83d9e0977e652)
     - 21mmx24.7mm
     - RM4.50 x 2, 10
@@ -47,4 +47,4 @@
     - 30cm
     - RM4.65, 5
 
-## **Grand total cost: ~RM255**
+## **Grand total cost: ~RM253**
