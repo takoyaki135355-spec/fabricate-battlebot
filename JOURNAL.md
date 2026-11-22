@@ -202,7 +202,7 @@ i'm doing this because my modeling needs to finish soon and an item shipping fro
     
 **Total time spent: 1h**
 
-## November22, 2026: Day 10
+## November 22, 2026: Day 10
 
 i finished the chassis and put it into an assembly to test, but there was one big problem...
 
