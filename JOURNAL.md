@@ -187,10 +187,13 @@ The next step is to redesign the chassis so it can fit all the components
 firstly, i resdesigned the top of the chassis to accomodate more parts
 ![image](https://cdn.hackclub.com/01a1f93a-b3a0-7075-b3ff-13589cb048bc/paste-1795182735894.png)
 i decided that the pdb will go in the center of the chassis while the two motor drivers sit above it
-the battery will be in the back, and the buck converter will be in the back
+the battery will be in the back, and the buck converter will be in the front
 the esp32 devboard sits on the buck converter
 tomorrow i will adjust the chassis
+
 **Total time spent: 3.5h**
+
+
 
 ## November 21, 2026: Day 9
 
@@ -201,6 +204,8 @@ i would need to get it before i submit my design so im switching it to these,
 i'm doing this because my modeling needs to finish soon and an item shipping from far away will take too long to get to me, this option is local and should come fast.
     
 **Total time spent: 1h**
+
+
 
 ## November 22, 2026: Day 10
 
@@ -218,4 +223,30 @@ i realised that the only way to do this would be to enlarge the body, meaning i 
 ill make the body bigger and just print it in sections
 fixed
 im done that took too long
+
+
 **Total time spent: 3h**
+
+## November 23, 2026: Day 11
+
+The wheels came tdy, the height is just under 13mm by about ~0.095mm so ill use 13mm.
+
+modeling them now
+
+
+now ill adjust the chassis to fit the electronics again.
+ive already planned this out 
+``` yaml
+i decided that the pdb will go in the center of the chassis while the two motor drivers sit above it
+the battery will be in the back, and the buck converter will be in the front
+the esp32 devboard sits on the buck converter
+tomorrow i will adjust the chassis
+```
+my chassis no longer has a center though, so i'm changing it to put the motor drivers and pdb next to the esp 32 and converter
+ i extended it to make a kind of floor that the body will rest on
+
+**Total time spent: 3h**
+
+
+
+
