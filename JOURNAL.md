@@ -3,7 +3,7 @@ title: "Battle Bot - (The Ultra Destroyer 3000)"
 github: "https://github.com/takoyaki135355-spec/fabricate-battlebot"
 description: "I'm building a battle bot for the first time to explore hardware engineering and design."
 created_at: "2026-11-10"
-total_time: ""
+total_time: "39.5h"
 ---
 
 ## November 10th, 2026: The Start
@@ -107,7 +107,7 @@ _Grand total cost: RM217.4_
 THAT WAS SO MUCH WORK OMG HOW?!?!?!
 i guess now i need to 3d model it, before i do that i'll lock in my designs and measurements on paper.
 
-**Total time spent: 5h**
+**Total time spent: 6h**
 
 ## November 13th, 2026: Day 4
 
@@ -225,7 +225,7 @@ fixed
 im done that took too long
 
 
-**Total time spent: 3h**
+**Total time spent: 4h**
 
 ## November 23, 2026: Day 11
 
@@ -246,7 +246,7 @@ my chassis no longer has a center though, so i'm changing it to put the motor dr
 i extended it to make a kind of floor that the body will rest on
 
 ![image](https://cdn.hackclub.com/01a216a6-8513-7089-aeef-85996453ad2f/paste-1795676339108.png)
-**Total time spent: 3h**
+**Total time spent: 4h**
 
 ## November 26, 2026: Day 12
 
@@ -260,3 +260,5 @@ its about 18mm to the ground from the bottom of the chassis, since my wheels are
 ![image](https://cdn.hackclub.com/01a216b3-56ad-74e1-bc13-89e4558b603e/paste-1795677178246.png)
 
 done
+
+**Total time spent: 0.5h**
