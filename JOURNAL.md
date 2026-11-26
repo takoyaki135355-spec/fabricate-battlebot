@@ -255,10 +255,12 @@ I think its all done now...
 lemme double check
 
 oh yes the small support wheels dont have a mount yet
-its about 18mm to the ground from the bottom of the chassis, since my wheels are 13mm tall ill extrude 5mm sections
+its about 18mm to the ground from the bottom of the chassis, since my wheels are 13mm tall ill extrude 4mm sections
 
 ![image](https://cdn.hackclub.com/01a216b3-56ad-74e1-bc13-89e4558b603e/paste-1795677178246.png)
 
+i renamed PARTLIST.md to BOM.md
+now ill make a full assembly to export as a .step
 done
 
-**Total time spent: 0.5h**
+**Total time spent: 1h**
