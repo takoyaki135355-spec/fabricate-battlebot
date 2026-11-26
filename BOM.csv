@@ -1,0 +1,26 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Dimensions / Specs,Rounded Estimate (RM),Image URL
+Battery,Part,1,68.68,68.68,https://shopee.com.my/Doublepow-12V-Lithium-18650-Battery-Pack-Rechargeable-Batteries-with-Protection-Board-11.1V-Li-ion-Battery-2200-20000mah-i.1551311989.45559319068,,Grant,,31.6mm x 66.9mm x 57.9mm,70,https://cdn.hackclub.com/01a1ce14-bea3-700c-8430-c3a87d77e7bf/paste-1794458825717.png
+ESP32,Part,1,20.03,20.03,https://shopee.com.my/ESP32-Development-Board-TYPE-C-USB-CH340C-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Core-ESP32-DevKitC-32-ESP-WROOM-32-i.550994225.17872412597?extraParams=%7B%22display_model_id%22%3A38839700478%2C%22model_selection_logic%22%3A3%7D&image_ids=eaf39f0dd6157fb39375dd446c410323,,Grant,,52mm x 28mm,21,https://cdn.hackclub.com/01a1ce25-03a9-7e13-8e4a-bd62d4730a57/paste-1794459894178.png
+Swiveling Wheels,Part,1,1.99,1.99,https://shopee.com.my/4Pcs-Furniture-Caster-Mini-Ball-Wheels-Self-Adhesive-Swivel-Pulley-Roller-Universal-Stainless-Steel-i.1899904765.46515614620?extraParams=%7B%22display_model_id%22%3A391333648460%2C%22model_selection_logic%22%3A3%7D&image_ids=my-11134207-820l4-mrldxzxk5fyc9d,,Grant,,25mm x 45mm,2,https://down-my.img.susercontent.com/file/my-11134207-820la-mrldxzxk2mtgbe@resize_w900_nl.webp
+Dual Channel Motor Driver,Part,2,4.50,9.00,https://shopee.com.my/Small-L298N-MX1508-2-Channel-Way-1.5A-Mini-DC-Motor-Driver-for-Arduino-Robot-Smart-Car-i.33091591.947503953?extraParams=%7B%22display_model_id%22%3A21951285825%2C%22model_selection_logic%22%3A3%7D&image_ids=e1da53947298e80ed5d83d9e0977e652,,Grant,,21mm x 24.7mm,10,https://cdn.hackclub.com/01a1ce26-5a6e-718c-8fc2-99e2c55b5ba5/paste-1794459979350.png
+Switch,Part,1,1.30,1.30,https://shopee.com.my/Rocker-Switch-2-Pin-10mm-x-15mm-On-Off-Switch-i.1165814930.25826379984?extraParams=%7B%22display_model_id%22%3A250707104705%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134201-7rd4b-luhxg9p3yhcq67,,Grant,,10mm x 15mm,2,https://cdn.hackclub.com/01a1ce28-b466-75a8-bdcb-f241a2e2d420/2026-11-12_12-58-04.png
+Power Distribution Board,Part,1,31.38,31.38,https://shopee.com.my/Matek-Mini-Power-Hub-Power-Distribution-Board-PDB-with-BEC-5V-12V-for-FPV-i.53025383.1067939439,,Grant,,No listed size,32,
+N20 Motor,Part,2,14.49,28.98,https://shopee.com.my/DC-Geared-Motor-GA12-(N20,,Grant,,Body: 10mm x 12mm x 27mm; Axle length: 10mm; Axle diameter: 3mm,31,https://cdn.hackclub.com/01a1ce87-8b0f-7780-bfda-b54e7c729e2b/paste-1794466350003.png
+25GA-370 Motor,Part,2,15.46,30.92,https://shopee.com.my/glowerstoree-my-Electric-Gear-Motor-DC-12V-5RPM-25GA-370-Low-Speed-Metal-for-Electronic-Lock-(12V-5RPM,,Grant,,Outer diameter: 25mm; Length: 51.62mm; Shaft diameter: 4mm; Shaft length: 10mm,31,https://cdn.hackclub.com/01a1d2e3-ad54-7fd8-bd8d-e5bf1b835680/paste-1794539497579.png
+Buck Converter,Part,1,4.51,4.51,https://shopee.com.my/LM2596-DC-DC-Adjustable-Step-Down-Module-with-Digital-Display-Voltage-Meter-LM2596S-Regulated-Power-Supply-Module-i.1652412739.54552665560?extraParams=%7B%22display_model_id%22%3A400256709500%2C%22model_selection_logic%22%3A3%7D&image_ids=sg-11134201-82261-mhvntssz2vpg44,,Grant,,Size unlisted,5,https://cdn.hackclub.com/01a1ce23-e1e8-7f63-b02b-303aeb9cdb51/paste-1794459817631.png
+Main wheels,Part,2,21.26,42.52,https://shopee.com.my/70-Skates-Wheel-Wheel-Adult-Children-Roller-Skates-Wear-Resistant-Roller-Skates-PU-Wheel-Rubber-Mute-64mm-Kart-i.1416595624.55200501365?extraParams=%7B%22display_model_id%22%3A445044633456%2C%22model_selection_logic%22%3A3%7D&image_ids=cn-11134207-820l4-mgnozv6bj2tpcb,,Grant,,Wheel: 70mm x 24mm; Bearing outer diameter: 22mm,44,https://cdn.hackclub.com/01a1ce8a-3e16-7eef-8efd-d030791fa1c9/2026-11-12_14-54-34.png
+Wires,Part,1,4.65,4.65,https://shopee.com.my/product/1165814930/24676987244?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEdAAAAAxUANCT5A1ZQjk10BrpC_e2GNKQaPe9Hz3iKpescjEORNsMVxWOTUlKYRiAxvNJ6B0x980hNdxIB-y_yOacwysCe7eCoeGctToQSC6jcRxeqYjeAj6Qi4OwO8vM41WCa_ip_TwnTK3Xu17cu-VWCvlh,,Grant,,30cm,5,
+chassis,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+body,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+flap,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+blade l,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+housing l,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+connector l,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+small gear l,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+big gear l,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+blade r,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+housing r,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+connector r,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+small gear r,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+big gear r,3D printed,1,,,,,Paying myself,N/A,N/A,N/A,N/A
+Total,,,,243.96,,,,,,,
