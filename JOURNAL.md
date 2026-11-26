@@ -243,10 +243,20 @@ the esp32 devboard sits on the buck converter
 tomorrow i will adjust the chassis
 ```
 my chassis no longer has a center though, so i'm changing it to put the motor drivers and pdb next to the esp 32 and converter
- i extended it to make a kind of floor that the body will rest on
+i extended it to make a kind of floor that the body will rest on
 
+![image](https://cdn.hackclub.com/01a216a6-8513-7089-aeef-85996453ad2f/paste-1795676339108.png)
 **Total time spent: 3h**
 
+## November 26, 2026: Day 12
 
+I think its all done now...
 
+lemme double check
 
+oh yes the small support wheels dont have a mount yet
+its about 18mm to the ground from the bottom of the chassis, since my wheels are 13mm tall ill extrude 5mm sections
+
+![image](https://cdn.hackclub.com/01a216b3-56ad-74e1-bc13-89e4558b603e/paste-1795677178246.png)
+
+done
